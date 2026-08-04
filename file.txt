@@ -1,3 +1,6 @@
+hello
+this is feature brnch
+New feature for PR
 
 change from branch1
 change from branch2
